@@ -1,0 +1,1 @@
+{"version":3,"sources":["debug.js"],"names":["define","skylark","debug"],"mappings":";;;;;;;AAAAA,QACI,yBACD,SAASC,GACX,OAAOA,EAAQC,MAAQD,EAAQC","file":"../debug.js","sourcesContent":["define([\r\n    \"skylark-langx/skylark\"\r\n], function(skylark) {\r\n\treturn skylark.debug = skylark.debug || {};\r\n});"]}
