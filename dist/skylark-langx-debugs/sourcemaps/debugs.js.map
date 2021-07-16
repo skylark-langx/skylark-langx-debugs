@@ -1,0 +1,1 @@
+{"version":3,"sources":["debugs.js"],"names":["define","skylark","attach"],"mappings":";;;;;;;AAAAA,QACI,oBACD,SAASC,GACX,OAAOA,EAAQC,OAAO","file":"../debugs.js","sourcesContent":["define([\r\n    \"skylark-langx-ns\"\r\n], function(skylark) {\r\n\treturn skylark.attach(\"langx.debugs\");\r\n});"]}
