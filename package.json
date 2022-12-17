@@ -21,6 +21,10 @@
     "coded",
     "html5"
   ],
+  "exports": {
+    ".": "./dist/uncompressed/skylark-langx-debugs/main.js",
+    "./*": "./dist/uncompressed/skylark-langx-debugs/*.js"
+  },
   "author": "Hudaokeji Co.,Ltd",
   "license": "MIT",
   "bugs": "https://github.com/skylarkjs/skylark/issues",
