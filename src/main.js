@@ -1,6 +1,7 @@
 define([
     "./debugs",
-    "./stack-trace"
+    "./stack-trace",
+    "./assert"
 ], function(debugs) {
     return debugs;
 });

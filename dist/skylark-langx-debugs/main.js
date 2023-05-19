@@ -5,5 +5,5 @@
  * @link www.skylarkjs.org
  * @license MIT
  */
-define(["./debugs","./stack-trace"],function(e){return e});
+define(["./debugs","./stack-trace","./assert"],function(e){return e});
 //# sourceMappingURL=sourcemaps/main.js.map
